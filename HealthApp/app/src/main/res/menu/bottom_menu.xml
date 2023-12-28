@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/dietPlan"
+        android:title="@string/diet_plan"
+        android:icon="@drawable/plan"/>
+
+    <item
+        android:id="@+id/exercisePlan"
+        android:title="@string/exercise_plan"
+        android:icon="@drawable/health"/>
+
+    <item
+        android:id="@+id/analytics"
+        android:title="@string/analytics"
+        android:icon="@drawable/analytics"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="@string/emotion_detection"
+        android:icon="@drawable/baseline_emoji_emotions_24"/>
+
+</menu>

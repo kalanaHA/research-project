@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">HealthApp</string>
+    <string name="logo">Logo</string>
+    <string name="full_name">Full Name</string>
+    <string name="address">Address</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="select_date">Select Date</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="health_status">Health Status</string>
+    <string name="risk_alert">Risk Alert</string>
+    <string name="diet_plan">Diet Plan</string>
+    <string name="diet_plan_text">Presented herewith is a customized diet plan meticulously curated, encompassing thorough consideration of your individual health conditions.</string>
+    <string name="risk_history">Risk History</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="comprehensive_family_healthcare">COMPREHENSIVE FAMILY HEALTHCARE</string>
+    <string name="get_started">Get Started</string>
+    <string name="medic">MEDIC</string>
+    <string name="tech">TECH</string>
+    <string name="final_app_name">MediTech</string>
+    <string name="step_2_2">STEP 2/2</string>
+    <string name="registration">Registration</string>
+    <string name="horoscope">Horoscope</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="home">Home</string>
+    <string name="plan">Plan</string>
+    <string name="analytics">Analytics</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="select_start_date">Select Start Date</string>
+    <string name="select_end_date">Select End Date</string>
+    <string name="show_data">Show Data</string>
+    <string name="emergency">EMERGENCY</string>
+    <string name="exercise_plan">Exercise Plan</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="profile_update">Profile</string>
+    <string name="get_report">Get Report</string>
+    <string name="camera">Camera</string>
+    <string name="get_you_selfie">Get You Selfie</string>
+    <string name="detect_emotions">Detect Emotions</string>
+    <string name="enjoy_this_video">Enjoy This Video</string>
+    <string name="let_s_assess_the_likelihood_of_your_having_dementia">Let\'s assess the likelihood of your having dementia</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="alcohol_level">Alcohol Level</string>
+    <string name="weight">Weight</string>
+    <string name="mri_delay">MRI Delay</string>
+    <string name="get_predictions">Get Predictions</string>
+    <string name="do_you_have_diabetes">Do you have diabetes?</string>
+    <string name="disclaimer_the_accuracy_of_this_prediction_depends_on_the_accuracy_of_the_data_you_provide_please_consult_a_healthcare_professional_for_a_definitive_assessment">Disclaimer: The accuracy of this prediction depends on the accuracy of the data you provide. Please consult a healthcare professional for a definitive assessment.</string>
+    <string name="get_dementia_prediction">get Dementia Prediction</string>
+    <string name="emotion_detection">Emotion Detection</string>
+
+</resources>

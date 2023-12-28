@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".DementiaActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/let_s_assess_the_likelihood_of_your_having_dementia"
+        android:textSize="16sp"
+        android:textAlignment="center"
+        android:textColor="@color/main_color"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/disclaimer_the_accuracy_of_this_prediction_depends_on_the_accuracy_of_the_data_you_provide_please_consult_a_healthcare_professional_for_a_definitive_assessment"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="#ff0000"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/do_you_have_diabetes"
+        android:layout_marginLeft="23dp"
+        android:layout_marginRight="23dp"
+        android:layout_marginTop="16dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"/>
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/yesRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/main_color"
+            android:buttonTint="@color/main_color"
+            android:text="@string/yes"
+            android:textAllCaps="true"
+            android:checked="true"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:padding="15dp"/>
+
+        <RadioButton
+            android:id="@+id/noRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/main_color"
+            android:buttonTint="@color/main_color"
+            android:textAllCaps="true"
+            android:textSize="16sp"
+            android:padding="15dp"
+            android:text="@string/no"
+            android:textStyle="bold"/>
+
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/alcoholLevelText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:hint="@string/alcohol_level"
+        android:autofillHints="creditCardNumber"
+        android:inputType="numberDecimal"
+        android:textColor="@color/black"
+        android:layout_marginEnd="16dp"/>
+
+    <EditText
+        android:id="@+id/weightText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:hint="@string/weight"
+        android:textColor="@color/black"
+        android:autofillHints="creditCardNumber"
+        android:inputType="numberDecimal"
+        android:layout_marginEnd="16dp"/>
+
+    <EditText
+        android:id="@+id/mriDelayText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:hint="@string/mri_delay"
+        android:textColor="@color/black"
+        android:layout_marginEnd="16dp"
+        android:autofillHints="creditCardNumber"
+        android:inputType="numberDecimal" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/get_predictionsButtons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="@string/get_predictions"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"
+        android:indeterminateTint="@color/main_color"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/predictionsText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:textColor="@color/teal_700"
+        android:padding="16dp"/>
+
+</LinearLayout>

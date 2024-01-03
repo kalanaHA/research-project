@@ -1,0 +1,152 @@
+[
+    {
+       "name":"Anura pharmacy",
+       "location":"7.0940864977339615,79.99345377711329",
+       "medicine":"salbutamol,theophylline,terbutaline"
+    },
+    {
+       "name":"Venura pharmacy",
+       "location":"7.0940864977339615,79.99345377711329",
+       "medicine":"terbutaline,bisoprolol,propanolol,diltiazem"
+    },
+    {
+       "name":"Onel pharmacy",
+       "location":"6.924009203281871,79.97785832551634",
+       "medicine":"salbutamol,theophylline,bisoprolol,diltiazem"
+    },
+    {
+       "name":"Pharmart pharmacy",
+       "location":"6.9170765501095826,79.9731878634781",
+       "medicine":"paracetamol,brufen,cetrizine"
+    },
+    {
+       "name":"Sahana Suwa pharmacy",
+       "location":"6.909795166009974,79.9712794543516",
+       "medicine":"arorva,deriphyllin retard,ibuprofen"
+    },
+    {
+       "name":"Excel Chemist pharmacy",
+       "location":"6.909111411712752,79.96812888133942",
+       "medicine":"acetaminophen,panadol,celox r"
+    },
+    {
+       "name":"Lanka Hospitals pharmacy",
+       "location":"6.890199838379547,79.8755232678455",
+       "medicine":"beta-blockers,metoprolol,atenolol"
+    },
+    {
+       "name":"Safeway Chemist pharmacy",
+       "location":"6.900765273496725,79.95812885160541",
+       "medicine":"diazepam,amoxicillin,atenolol"
+    },
+    {
+       "name":"Osulka pharmacy",
+       "location":"7.065439421205347,80.00579199852889",
+       "medicine":"lyrica,metoprolol,codein"
+    },
+    {
+       "name":"Med-X pharmacy",
+       "location":"6.905658609086574,79.96319536969301",
+       "medicine":"azithromycin,alprazolam,lorazepam"
+    },
+    {
+       "name":"Slim pharma pharmacy",
+       "location":"6.904108520002969,79.97499582551622",
+       "medicine":"asprin,morphine,losartan,insulin"
+    },
+    {
+       "name":"Uni Chemist pharmacy",
+       "location":"6.876906714846124,79.93725064085758",
+       "medicine":"omeprazole,metoprolol,epinephrine"
+    },
+    {
+       "name":"Liberty pharmacy",
+       "location":"6.911167058228385,79.85208210037594",
+       "medicine":"salbutamol,paracetomol,theophylline,terbutaline"
+    },
+    {
+       "name":"Harcourts pharmacy",
+       "location":"6.917029157743831,79.86644722366874",
+       "medicine":"bisoprolol,propranolol,paracetomol,theophylline"
+    },
+    {
+       "name":"Suwahasa pharmacy",
+       "location":"6.897430094321646, 79.92642060253203",
+       "medicine":"metoprolol,albuterol,diltiazem,brufen"
+    },
+    {
+       "name":"Health guard pharmacy",
+       "location":"6.915351746143819,79.85908343901018",
+       "medicine":"paracetamol,brufen,theophylline,amoxicillin"
+    },
+    {
+       "name":"Central pharmacy & store",
+       "location":"6.916017661229803,79.87667135250412",
+       "medicine":"atenolol,codein,metformin,januvia"
+    },
+    {
+       "name":"Sarasi pharmacy",
+       "location":"6.97766771303644,79.92491054974622",
+       "medicine":"trazodone,paracetamol,theophylline,lyrica"
+    },
+    {
+       "name":"Himaya pharmacy",
+       "location":"6.8954949709475555,79.96076454085762",
+       "medicine":"ceftriaxone,clarithromycin,erythromycin,cefclor"
+    },
+    {
+       "name":"Health Chemist pharmacy",
+       "location":"6.903887744124613,79.93547647320233",
+       "medicine":"salbutamol,terbutaline,diltiazem,bisprolol"
+    },
+    {
+       "name":"Rokem pharmacy",
+       "location":"6.903580379800135,79.95527011017482",
+       "medicine":"brufen,trazodone,paracetamol,lyrica"
+    },
+    {
+       "name":"New Koswatte chemist pharmacy",
+       "location":"6.906252512873709,79.92877771202234",
+       "medicine":"bisoprolol,propranolol,terbutaline,diltiazem"
+    },
+    {
+       "name":"Isuru pharmacy",
+       "location":"6.902048508051585,79.91718599852838",
+       "medicine":"clarithromycin,erythromycin,cefclor,diltiazem"
+    },
+    {
+       "name":"CFC Healthcare Pharmacy Battaramulla ",
+       "location":"6.896750209485456,79.92250838318691",
+       "medicine":"paracetamol,theophylline,atenolol,codein"
+    },
+    {
+       "name":"Pelawatte pharmacy",
+       "location":"6.891533775472255,79.9284086831869",
+       "medicine":"metoprolol,albuterol,diltiazem,brufen"
+    },
+    {
+       "name":"S.A.K pharmacy",
+       "location":"6.966268386952313,79.90001644085787",
+       "medicine":"salbutamol,paracetomol,theophylline,diltiazem"
+    },
+    {
+       "name":"Yukee pharmacy",
+       "location":"7.231367395308464,80.24504313901123",
+       "medicine":"bisoprolol,propranolol,paracetomol,beta-blockers"
+    },
+    {
+       "name":" Losetha pharmacy",
+       "location":"6.966355838731583,79.9275027255164",
+       "medicine":"atenolol,beta-blockers,salbutamol,paracetamol"
+    },
+    {
+       "name":"Lanka pharmacy",
+       "location":"7.2111603452394055, 79.8401644866482",
+       "medicine":"beta-blockers,metoprolol,atenolol,paracetamol"
+    },
+    {
+       "name":"Nawaloka care pharmacy",
+       "location":"7.207141215951129, 79.84963235407916",
+       "medicine":"salbutamol,theophylline,bisoprolol,diltiazem"
+    }
+ ]
